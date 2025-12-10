@@ -49,7 +49,7 @@ If you find this project useful and would like to support its development, donat
 
 **Bitcoin (BTC):**
 ```
-[Your Bitcoin wallet address]
+bc1qr9ahayl0wjmzakepaswdz0j934t5r2gz6avzva
 ```
 
 **Ethereum (ETH):**
@@ -59,12 +59,12 @@ If you find this project useful and would like to support its development, donat
 
 **Binance Smart Chain (BSC):**
 ```
-[Your BSC wallet address]
+0xa4b5109e07203f128c70cd29a75f5bec912411b9
 ```
 
 **Polygon (MATIC):**
 ```
-[Your Polygon wallet address]
+0xa4b5109e07203f128c70cd29a75f5bec912411b9
 ```
 
 **Solana (SOL):**
