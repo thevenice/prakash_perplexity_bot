@@ -49,27 +49,52 @@ If you find this project useful and would like to support its development, donat
 
 **Bitcoin (BTC):**
 ```
-bc1qr9ahayl0wjmzakepaswdz0j934t5r2gz6avzva
+Bc1qqygs0fp0nhwlhuu3qam8wlmywgv0fjy86lqc4y
 ```
 
 **Ethereum (ETH):**
 ```
-0xA4b5109E07203F128c70cD29A75f5BEC912411b9
-```
-
-**Binance Smart Chain (BSC):**
-```
-0xa4b5109e07203f128c70cd29a75f5bec912411b9
-```
-
-**Polygon (MATIC):**
-```
-0xa4b5109e07203f128c70cd29a75f5bec912411b9
+0x3b03f63d7d27e2b0609306e8439cda48ed09e95a
 ```
 
 **Solana (SOL):**
 ```
-5dAgHxC4JACeaRW6Vftz7E9xRBvsJbYLFv8pbpnqjsuA
+HTLDqS36vrmLLF1EbpLFYC2RMCp3eXuwisunQG32uNZH
+```
+
+**Linea:**
+```
+0x3b03f63d7d27e2b0609306e8439cda48ed09e95a
+```
+
+**Base:**
+```
+0x3b03f63d7d27e2b0609306e8439cda48ed09e95a
+```
+
+**BNB:**
+```
+0x3b03f63d7d27e2b0609306e8439cda48ed09e95a
+```
+
+**Sei:**
+```
+0x3b03f63d7d27e2b0609306e8439cda48ed09e95a
+```
+
+**OP:**
+```
+0x3b03f63d7d27e2b0609306e8439cda48ed09e95a
+```
+
+**Polygon (MATIC):**
+```
+0x3b03f63d7d27e2b0609306e8439cda48ed09e95a
+```
+
+**Arbitrum:**
+```
+0x3b03f63d7d27e2b0609306e8439cda48ed09e95a
 ```
 
 ---
